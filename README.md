@@ -1,16 +1,61 @@
-## Hi there 👋
+👋 Hi, I’m Dawid Guminski
 
-<!--
-**Dguminski12/Dguminski12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught full-stack developer transitioning from a technical engineering background into software development. I focus on JavaScript, React, TypeScript fundamentals, and backend basics with Node.js & Express.
 
-Here are some ideas to get you started:
+I learn by building real projects, breaking things, fixing them, and improving every iteration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+Languages: JavaScript (ES6), TypeScript (beginner)
+Frontend: React, HTML, CSS
+Backend: Node.js, Express
+CMS: WordPress (Block Themes)
+Tools: Git, GitHub, APIs, Netlify, GitHub Pages
+
+📌 Featured Projects
+🔹 FishMate UK (React App)
+
+A fishing companion app built with component-driven architecture.
+Includes forms, stats tracking, reusable UI, and staged development labs.
+🔗 Repo: https://github.com/Dguminski12/fishmate-uk
+🔗 Live Demo: (add link)
+
+🔹 Recipe Finder (JavaScript + API)
+
+Search and filter recipes using external APIs with clean UI rendering.
+🔗 Repo: https://github.com/Dguminski12/recipe-finder-app
+🔗 Live Demo: (add link)
+
+🔹 Lune Beans Coffee (WordPress Site)
+
+Block-theme WordPress build with modern layout and branding.
+🔗 Repo: https://github.com/Dguminski12/lune-beans-wp-site
+🔗 Live Demo: (add link)
+
+🔹 React Portfolio Mini-Projects
+
+A collection of modern React component-based builds.
+🔗 Repos: https://github.com/Dguminski12/dsg-web
+          https://github.com/Dguminski12/big-red-media
+          https://github.com/Dguminski12/jammming
+🔗 Live Demos: (add links)
+
+📚 What I’m Learning Now
+
+TypeScript
+
+Advanced React patterns
+
+Node.js backend expansion
+
+Cleaner UI/UX structure
+
+API design and integration
+
+Building Custom Booking System 
+
+📬 Contact
+
+📧 davidguminski12@gmail.com
+
+🐙 GitHub: github.com/Dguminski12
