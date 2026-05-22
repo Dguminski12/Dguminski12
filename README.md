@@ -1,61 +1,150 @@
-👋 Hi, I’m Dawid Guminski
+# 👋 Hi, I’m Dawid Guminski
 
-Self-taught full-stack developer transitioning from a technical engineering background into software development. I focus on JavaScript, React, TypeScript fundamentals, and backend basics with Node.js & Express.
+Self-taught developer transitioning from a technical engineering background into software and embedded systems development.
 
-I learn by building real projects, breaking things, fixing them, and improving every iteration.
+I’ve been building projects focused around frontend development, robotics, embedded systems, dashboards, networking, and real-world problem solving. Most of what I learn comes from building projects from scratch, troubleshooting issues, and improving systems over time.
 
-🚀 Tech Stack
+---
 
-Languages: JavaScript (ES6), TypeScript (beginner)
-Frontend: React, HTML, CSS
-Backend: Node.js, Express
-CMS: WordPress (Block Themes)
-Tools: Git, GitHub, APIs, Netlify, GitHub Pages
+# 🚀 Current Focus
 
-📌 Featured Projects
-🔹 FishMate UK (React App)
+- Frontend development with React + TypeScript
+- Embedded programming with ESP32 + MicroPython
+- Robotics and remote-control systems
+- Dashboards and control interfaces
+- Learning backend fundamentals with Node.js & Express
+- Building structured, real-world projects instead of isolated tutorials
 
-A fishing companion app built with component-driven architecture.
-Includes forms, stats tracking, reusable UI, and staged development labs.
-🔗 Repo: https://github.com/Dguminski12/fishmate-uk
-🔗 Live Demo: (add link)
+---
 
-🔹 Recipe Finder (JavaScript + API)
+# 🧰 Tech Stack
 
-Search and filter recipes using external APIs with clean UI rendering.
-🔗 Repo: https://github.com/Dguminski12/recipe-finder-app
-🔗 Live Demo: (add link)
+### Languages
+- JavaScript (ES6)
+- TypeScript (learning)
+- Python
+- MicroPython
+- HTML / CSS
 
-🔹 Lune Beans Coffee (WordPress Site)
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Framer Motion
 
-Block-theme WordPress build with modern layout and branding.
-🔗 Repo: https://github.com/Dguminski12/lune-beans-wp-site
-🔗 Live Demo: (add link)
+### Backend / Tools
+- Node.js
+- Express
+- REST APIs
+- Git & GitHub
+- Netlify
+- VS Code
 
-🔹 React Portfolio Mini-Projects
+### Hardware / Embedded
+- ESP32
+- Motor drivers
+- Sensor integration
+- WiFi-based control systems
 
-A collection of modern React component-based builds.
-🔗 Repos: https://github.com/Dguminski12/dsg-web
-          https://github.com/Dguminski12/big-red-media
-          https://github.com/Dguminski12/jammming
-🔗 Live Demos: (add links)
+---
 
-📚 What I’m Learning Now
+# 📌 Featured Projects
 
-TypeScript
+## 🔹 Simple Wheel Robot V1
+ESP32-powered wheeled robot built with MicroPython.
 
-Advanced React patterns
+Current work includes:
+- Differential motor control
+- WiFi connectivity
+- HTTP command handling
+- Remote control systems
+- Dashboard integration
+- Power system planning
 
-Node.js backend expansion
+🔗 Repo: https://github.com/Dguminski12/simple-wheel-robot-v1
 
-Cleaner UI/UX structure
+---
 
-API design and integration
+## 🔹 Dashboard
+A custom dashboard/control interface project designed for robotics and system monitoring.
 
-Building Custom Booking System 
+Focused on:
+- Control UI development
+- Real-time interaction
+- Future robot telemetry and monitoring
 
-📬 Contact
+🔗 Repo: https://github.com/Dguminski12/dashboard
+
+---
+
+## 🔹 Weather Station Project
+An embedded systems and sensor-learning project focused on:
+- ESP32 development
+- Sensor integration
+- Environmental monitoring
+- Data handling and display systems
+
+Currently in active planning and development.
+
+---
+
+## 🔹 DSG Development Portfolio Website
+Modern React + TypeScript portfolio/demo website project.
+
+Built to improve:
+- Responsive frontend development
+- UI structure
+- Component architecture
+- Animation and layout design
+
+🔗 Repo: https://github.com/Dguminski12/dsg-web
+
+---
+
+## 🔹 Big Red Media
+Creative media portfolio/demo website built using modern frontend tooling.
+
+Focused on:
+- Responsive design
+- Branding
+- Visual presentation
+- Real-world style layouts
+
+🔗 Repo: https://github.com/Dguminski12/big-red-media
+
+---
+
+## 🔹 Henleys Coffee
+Coffee brand/demo website project exploring branding, layout, and frontend development.
+
+🔗 Repo: https://github.com/Dguminski12/henleys-coffee
+
+---
+
+## 🔹 ARC Barber Tech
+Currently building a Squarespace-based website project focused on:
+- Business-focused design
+- Service presentation
+- Booking/user experience
+- Real-world client-style workflows
+
+---
+
+# 📚 Currently Learning
+
+- TypeScript fundamentals
+- Embedded systems architecture
+- ESP32 networking and control
+- Better project structure and scalability
+- Backend development with Node.js
+- Robotics software architecture
+- UI/UX improvements
+- Real-world software workflows
+
+---
+
+# 📬 Contact
 
 📧 davidguminski12@gmail.com
 
-🐙 GitHub: github.com/Dguminski12
+🐙 GitHub: https://github.com/Dguminski12
