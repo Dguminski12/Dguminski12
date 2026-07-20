@@ -1,150 +1,43 @@
-# 👋 Hi, I’m Dawid Guminski
+# Hi, I'm Dawid Guminski
 
-Self-taught developer transitioning from a technical engineering background into software and embedded systems development.
+I'm a self-taught software developer with a technical engineering background, building full-stack web products and connected hardware projects. I learn by taking ideas from prototype to working systems: designing the interface, integrating APIs and data, debugging the edge cases, and documenting the result.
 
-I’ve been building projects focused around frontend development, robotics, embedded systems, dashboards, networking, and real-world problem solving. Most of what I learn comes from building projects from scratch, troubleshooting issues, and improving systems over time.
+I am currently looking for a junior software engineering or frontend development role where I can contribute practical React and TypeScript experience while continuing to grow across the stack.
 
----
+## Selected work
 
-# 🚀 Current Focus
+### [JobMate](https://github.com/Dguminski12/jobmate)
 
-- Frontend development with React + TypeScript
-- Embedded programming with ESP32 + MicroPython
-- Robotics and remote-control systems
-- Dashboards and control interfaces
-- Learning backend fundamentals with Node.js & Express
-- Building structured, real-world projects instead of isolated tutorials
+A full-stack job-search workspace with authenticated application tracking and AI interview preparation. Built with Next.js, TypeScript, Supabase, OpenAI, Stripe, Zod, and Vitest. The project includes document parsing, row-level security, webhook-driven entitlements, an admin dashboard, observability, and automated tests.
 
----
+### [Simple Wheel Robot V1](https://github.com/Dguminski12/simple-wheel-robot-v1) + [Control Dashboard](https://github.com/Dguminski12/dashboard)
 
-# 🧰 Tech Stack
+An ESP32 differential-drive robot controlled from a Next.js dashboard through WebSockets and an HTTP gateway. This project connects MicroPython firmware, Node.js networking, real hardware, and a responsive browser interface.
 
-### Languages
-- JavaScript (ES6)
-- TypeScript (learning)
-- Python
-- MicroPython
-- HTML / CSS
+### [Atlas](https://github.com/Dguminski12/atlas)
 
-### Frontend
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
+An AI assistant prototype built with Next.js, TypeScript, and the OpenAI API. It maintains conversation context, persists local chat history, and explores a longer-term vision for user-controlled personal memory.
 
-### Backend / Tools
-- Node.js
-- Express
-- REST APIs
-- Git & GitHub
-- Netlify
-- VS Code
+### [FishMate](https://github.com/Dguminski12/fishmate)
 
-### Hardware / Embedded
-- ESP32
-- Motor drivers
-- Sensor integration
-- WiFi-based control systems
+A mobile-first fishing journal built with React and TypeScript. It includes routed views, validated catch entry, reusable typed models, and browser persistence.
 
----
+## Tools I use
 
-# 📌 Featured Projects
+- Languages: TypeScript, JavaScript, Python, MicroPython, HTML, CSS, SQL
+- Frontend: React, Next.js, Vite, Tailwind CSS, responsive UI
+- Backend and data: Node.js, FastAPI, REST APIs, Supabase, PostgreSQL
+- Integrations and quality: OpenAI API, Stripe, Vitest, ESLint, Git, GitHub
+- Hardware: ESP32, motor drivers, sensors, Wi-Fi control systems
 
-## 🔹 Simple Wheel Robot V1
-ESP32-powered wheeled robot built with MicroPython.
+## What I'm working on
 
-Current work includes:
-- Differential motor control
-- WiFi connectivity
-- HTTP command handling
-- Remote control systems
-- Dashboard integration
-- Power system planning
+- Making JobMate deployment-ready and improving its test coverage
+- Adding reliable telemetry and command acknowledgement to the robot platform
+- Developing stronger backend, database, accessibility, and testing skills
+- Turning working prototypes into concise, well-documented portfolio projects
 
-🔗 Repo: https://github.com/Dguminski12/simple-wheel-robot-v1
+## Contact
 
----
+The best way to reach me is through the contact information on my CV or portfolio. You can also explore the repositories above to see how I structure, build, and document projects.
 
-## 🔹 Dashboard
-A custom dashboard/control interface project designed for robotics and system monitoring.
-
-Focused on:
-- Control UI development
-- Real-time interaction
-- Future robot telemetry and monitoring
-
-🔗 Repo: https://github.com/Dguminski12/dashboard
-
----
-
-## 🔹 Weather Station Project
-An embedded systems and sensor-learning project focused on:
-- ESP32 development
-- Sensor integration
-- Environmental monitoring
-- Data handling and display systems
-
-Currently in active planning and development.
-
----
-
-## 🔹 DSG Development Portfolio Website
-Modern React + TypeScript portfolio/demo website project.
-
-Built to improve:
-- Responsive frontend development
-- UI structure
-- Component architecture
-- Animation and layout design
-
-🔗 Repo: https://github.com/Dguminski12/dsg-web
-
----
-
-## 🔹 Big Red Media
-Creative media portfolio/demo website built using modern frontend tooling.
-
-Focused on:
-- Responsive design
-- Branding
-- Visual presentation
-- Real-world style layouts
-
-🔗 Repo: https://github.com/Dguminski12/big-red-media
-
----
-
-## 🔹 Henleys Coffee
-Coffee brand/demo website project exploring branding, layout, and frontend development.
-
-🔗 Repo: https://github.com/Dguminski12/henleys-coffee
-
----
-
-## 🔹 ARC Barber Tech
-Currently building a Squarespace-based website project focused on:
-- Business-focused design
-- Service presentation
-- Booking/user experience
-- Real-world client-style workflows
-
----
-
-# 📚 Currently Learning
-
-- TypeScript fundamentals
-- Embedded systems architecture
-- ESP32 networking and control
-- Better project structure and scalability
-- Backend development with Node.js
-- Robotics software architecture
-- UI/UX improvements
-- Real-world software workflows
-
----
-
-# 📬 Contact
-
-📧 davidguminski12@gmail.com
-
-🐙 GitHub: https://github.com/Dguminski12
